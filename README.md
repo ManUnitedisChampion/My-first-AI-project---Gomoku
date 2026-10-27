@@ -25,7 +25,7 @@ Gomoku 20x20 game with AI. Game has 3 levels of AI from easy to hard.
 
 1. **Clone:**
    ```bash
-   git clone https://github.com/AIEngineer992007/My-first-AI-project---Gomoku.git
+   git clone https://github.com/ManUnitedisChampion/My-first-AI-project---Gomoku
    cd caro-ai-pygame
    ```
 
